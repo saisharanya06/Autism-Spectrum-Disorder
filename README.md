@@ -1,4 +1,4 @@
-Detection of Autism Spectrum Disorder (ASD) 🧩
+ 🧩Detection of Autism Spectrum Disorder (ASD) 🧩
 🚀 A Machine Learning-based Web App for Early ASD Detection
 
 📌 Project Overview
